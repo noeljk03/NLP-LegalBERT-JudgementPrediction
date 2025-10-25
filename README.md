@@ -69,6 +69,18 @@ The system leverages **Legal-BERT**, a BERT model pre-trained on legal corpora, 
 
 ---
 
+## Results
+
+No violation Example
+
+<img width="1910" height="875" alt="no violation example" src="https://github.com/user-attachments/assets/cc460295-864b-426b-a473-d23f6d357705" />
+
+Violation Example 
+
+<img width="1917" height="871" alt="violation example" src="https://github.com/user-attachments/assets/65ebbbee-e4a7-4388-9582-f775b7b7bc86" />
+
+---
+
 ## Installation
 
 1. Clone the repo:
